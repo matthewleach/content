@@ -22,9 +22,9 @@ Even the simplest of web pages must contain at least one block of text. Usually,
 <body>
   <h1>Page title </h1>
   <h3>Subtitle </h3>
-  <h6>The smallest of the headings </h6>
-  <p>The first paragraph of the page </p>
-  <p>The second paragraph </p>
+  <h6>The smallest of the headings.</h6>
+  <p>The first paragraph of the page.</p>
+  <p>The second paragraph.</p>
 </body>
 ```
 In a browser, the above code looks like this:
