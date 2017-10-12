@@ -1,5 +1,5 @@
 # HTML Defined
-author: mihaiberq
+author: matthew-leach
 
 levels:
   - beginner
@@ -15,36 +15,41 @@ tags:
 ---
 ## Content
 
-
 New content to go here. The author must be updated to match a valid Enki account.
 
 ---
 ## Practice
 
-HTML dictates ???
+Which four things does HTML primarily achieve?
 
+??? ??? ??? ???
 
-Looking at an HTML page without CSS, it will appear as ???
-
-
-* content
-* The text, images, and links will appear without any style and containers will not display in any manner at all.
-
+* Displays Text
+* Inserts Media
+* Creates Links
+* Creates Containers
+* Creates Animations
+* Responsive Layouts
+* Math Expressions
+* Database Storage
 
 ---
 ## Revision
 
-What does HTML stand for?
+Looking at an HTML page without CSS, it will appear as ???
 
-???
+* Unstyled listing of the text, images, and links.
+* HTML page opens, but no content is displayed. 
+* HTML pages are not viewable without CSS.
+* An error occurs and the page will not display properly.
+* Only HTML text is displayed, unformatted. 
 
-What four things does HTML primarily achieve?
+---
+## Quiz
 
-???
-*  HyperText Markup Language
-* 1) Displays Text,
-* 2) Inserts Media (images/video/ie),
-* 3) Creates Links,
-* 4) Organizes content into Containers.
-* Hyperlinks and Text Markup Language
-* Home Tool Markup Language
+HTML dictates the ??? in a web page? 
+
+* content
+* style
+* interactivity
+* hosting
